@@ -3,11 +3,11 @@
 ### My skills
 
 ###### 🔍 - What im doing rn :
-![Build Status](http://shields.io/badge/Node.js-+++-339933?logo=Node.js&style=plastic)  ![Build Status](http://shields.io/badge/Javascript-+++-F7DF1E?logo=Javascript&style=plastic) ![Build Status](http://shields.io/badge/Firebase-+++-FFCA28?logo=Firebase&style=plastic) ![Build Status](https://shields.io/badge/React-+++-61D1FB?logo=React&style=plastic)
+ ![Build Status](https://shields.io/badge/Typescript-+++-007ACC?logo=TypeScript&style=plastic) ![Build Status](https://shields.io/badge/React-+++-61D1FB?logo=React&style=plastic) ![Build Status](https://shields.io/badge/Three.js-+-000000?logo=Three.js&style=plastic) ![Build Status](https://shields.io/badge/Webpack-+-8DD6F9?logo=Webpack&style=plastic) 
 ###### 🎀 - What i love :
- ![Build Status](http://shields.io/badge/HTML-+++-E34F26?logo=HTML5&style=plastic)  ![Build Status](http://shields.io/badge/CSS-+++-1572B6?logo=CSS3&style=plastic&logoColor=1572B6)
+![Build Status](http://shields.io/badge/Node.js-+++-339933?logo=Node.js&style=plastic) ![Build Status](http://shields.io/badge/Javascript-+++-F7DF1E?logo=Javascript&style=plastic) ![Build Status](http://shields.io/badge/HTML-+++-E34F26?logo=HTML5&style=plastic)  ![Build Status](http://shields.io/badge/CSS-+++-1572B6?logo=CSS3&style=plastic&logoColor=1572B6)
 ###### 🎨 - What i also work with :
-![Build Status](http://shields.io/badge/Discord.js-+++-7289DA?logo=Discord&style=plastic) ![Build Status](http://shields.io/badge/React%20native-+++-cyan?logo=react&style=plastic) ![Build Status](http://shields.io/badge/Python-++-3776AB?logo=Python&style=plastic) ![Build Status](http://shields.io/badge/MySQL-++-4479A1?logo=MySQL&style=plastic)  ![Build Status](http://shields.io/badge/PHP-+-777BB4?logo=PHP&style=plastic)
+![Build Status](http://shields.io/badge/Firebase-+++-FFCA28?logo=Firebase&style=plastic) ![Build Status](http://shields.io/badge/Discord.js-+++-7289DA?logo=Discord&style=plastic) ![Build Status](http://shields.io/badge/React%20native-+++-cyan?logo=react&style=plastic) ![Build Status](http://shields.io/badge/Python-++-3776AB?logo=Python&style=plastic) ![Build Status](http://shields.io/badge/MySQL-++-4479A1?logo=MySQL&style=plastic)  ![Build Status](http://shields.io/badge/PHP-+-777BB4?logo=PHP&style=plastic)
 
 
 >I love programing, everyday think great things and then give them life by some code is one of the most beautiful things we can do.
