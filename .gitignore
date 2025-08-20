@@ -1,0 +1,14 @@
+# env
+.env
+
+# npm
+node_modules
+
+# ts-node
+**/**.js
+
+# ide
+.vscode
+
+#
+ignore/
